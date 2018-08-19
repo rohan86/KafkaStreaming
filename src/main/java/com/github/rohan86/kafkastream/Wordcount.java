@@ -18,7 +18,7 @@ import java.security.Key;
 import java.util.Arrays;
 import java.util.Properties;
 
- public class colourcount
+ public class Wordcount
   {
 
       public static void main(String[] args) {
